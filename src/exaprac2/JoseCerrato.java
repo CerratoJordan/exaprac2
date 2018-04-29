@@ -26,7 +26,7 @@ public class JoseCerrato {
        String m1 = "";
        
        do{
-           menu = Integer.parseInt( JOptionPane.showInputDialog("------------MENÚ----------\n 1- Ingresar productos\n 2- Mostrar Productos\n 3- Salir "));
+           menu = Integer.parseInt( JOptionPane.showInputDialog("------------MENÚ----------\n 1- Agregar Compra\n 2- Calcular Total\n 3- Salir "));
       
             switch(menu){
                 case 1: 
