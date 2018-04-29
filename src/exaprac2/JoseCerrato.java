@@ -7,7 +7,7 @@ package exaprac2;
 import javax.swing.JOptionPane;
 /**
  *
- * @author jomac
+ * @author CerratoJordan
  */
 public class JoseCerrato {
 
